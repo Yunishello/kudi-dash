@@ -1,0 +1,21 @@
+.icon-size {
+    width: 200px;
+    height: 70px;
+}
+
+.icon-1 {
+    font-size: 60px;
+}
+
+.text-page {
+    font-size:40px;
+    font-family: tahoma, arial, helvetica;
+}
+
+.text-grey {
+    color: #ccc;
+}
+
+.table-style {
+    width: 100%;
+}
